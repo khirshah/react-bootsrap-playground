@@ -1,0 +1,22 @@
+html {
+  height:100%;
+}
+body {
+  height:100%;
+  background-color: #eaf0ce;
+}
+
+#container {
+  background-color: #967d69;
+  height:100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.tableContainer , .carouselContainer, .formContainer{
+  margin: 10px;
+  background-color: #bbbe64;
+}
+
+.carouselItem {
+  margin:10px;
+}
