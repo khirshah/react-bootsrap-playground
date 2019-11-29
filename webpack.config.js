@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
   	new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'React demo',
+      title: 'R-B playground',
       template: './src/html/index.html',
       inject: false
     }),
